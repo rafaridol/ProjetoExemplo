@@ -3,7 +3,7 @@
     
  <form  id="contactForm" action="" method="post">
      
- <label>Nome:</label> <input type="text" class="form-control" name="nome" required="" data-validation-required-message="Please enter your name.">
+ <label>Descrição:</label> <input type="text" class="form-control" name="nome" required="" data-validation-required-message="Please enter your name.">
  E-mail: <input type="email" class="form-control" name="email"/>
  Telefone: <input type="tel" class="form-control" name="telefone"/>
  Assunto: <input type="text" class="form-control" name="assunto"/>
